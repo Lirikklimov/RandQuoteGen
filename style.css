@@ -8,6 +8,12 @@ body {
     background-color: #4e0435;
     background-image: url('beige-paper.png');
 }
+h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 60px;
+    color: #fff;
+}
 .wrapper {
     width: 400px;
     border: 1px solid white;
