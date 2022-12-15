@@ -11,8 +11,8 @@ let getQuote = () => {
         // console.log(item.content)
         quote.innerText = item.content;
         author.innerText = item.author;
+        console.log(quote.innerText);
     });
-    
 };
 
 window.addEventListener("load", getQuote);
